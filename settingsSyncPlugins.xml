@@ -64,6 +64,7 @@
                   <option value="com.intellij.modules.vcs" />
                 </set>
               </option>
+              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -165,7 +166,9 @@
         </entry>
         <entry key="com.intellij.grpc">
           <value>
-            <PluginData />
+            <PluginData>
+              <option name="enabled" value="false" />
+            </PluginData>
           </value>
         </entry>
         <entry key="com.intellij.hibernate">
@@ -200,6 +203,7 @@
                   <option value="com.intellij.properties" />
                 </set>
               </option>
+              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -283,7 +287,9 @@
         </entry>
         <entry key="com.intellij.microservices.ui">
           <value>
-            <PluginData />
+            <PluginData>
+              <option name="enabled" value="false" />
+            </PluginData>
           </value>
         </entry>
         <entry key="com.intellij.quarkus">
@@ -522,7 +528,9 @@
         </entry>
         <entry key="com.jetbrains.restClient">
           <value>
-            <PluginData />
+            <PluginData>
+              <option name="enabled" value="false" />
+            </PluginData>
           </value>
         </entry>
         <entry key="com.jetbrains.restWebServices">
@@ -588,12 +596,15 @@
                   <option value="com.intellij.modules.vcs" />
                 </set>
               </option>
+              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
         <entry key="idea.plugin.protoeditor">
           <value>
-            <PluginData />
+            <PluginData>
+              <option name="enabled" value="false" />
+            </PluginData>
           </value>
         </entry>
         <entry key="intellij.indexing.shared">
