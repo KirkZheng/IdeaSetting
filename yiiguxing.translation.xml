@@ -1,0 +1,17 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="Cannot resolve plugin org.apache.maven.plugins:maven-resources-plugin:3.0.2" />
+      <item value="Try run Maven import with -U flag (force update snapshots)" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="1" />
+        <entry key="ENGLISH" value="2" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1654935696916" />
+  </component>
+</application>
